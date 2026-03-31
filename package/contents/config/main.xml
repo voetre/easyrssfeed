@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+    <kcfgfile name=""/>
+
+    <group name="General">
+        <entry name="feedUrls" type="String">
+            <default>https://feeds.bbci.co.uk/news/rss.xml
+https://news.ycombinator.com/rss
+https://geohot.github.io/blog/feed.xml
+https://mainichi.jp/rss/etc/english_latest.rss
+https://xkcd.com/rss.xml
+https://www.theverge.com/rss/index.xml
+https://www.debian.org/News/news.en.rdf
+https://blog.chromium.org/feeds/posts/default</default>
+        </entry>
+        <entry name="refreshInterval" type="Int">
+            <default>300</default>
+        </entry>
+        <entry name="maxItems" type="Int">
+            <default>20</default>
+        </entry>
+        <entry name="placeholderImage" type="String">
+            <default></default>
+        </entry>
+        <entry name="itemSpacing" type="Int">
+            <default>4</default>
+        </entry>
+        <entry name="padding" type="Int">
+            <default>8</default>
+        </entry>
+        <entry name="transparency" type="Int">
+            <default>100</default>
+        </entry>
+    </group>
+        
+</kcfg>

@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Developer"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "A simple RSS reader widget that displays feed items in an overlay",
+        "Icon": "rss",
+        "Id": "com.voetre.easyrssfeed",
+        "Name": "EasyRSSFeed",
+        "Version": "1.0.0",
+        "License": "GPL-2.0",
+        "Website": ""
+    },
+    "X-Plasma-API": "declarativeappletscript/6.0",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
