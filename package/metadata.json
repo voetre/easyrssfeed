@@ -3,7 +3,7 @@
     "KPlugin": {
         "Authors": [
             {
-                "Name": "Developer"
+                "Name": "voetre"
             }
         ],
         "Category": "Online Services",
@@ -11,7 +11,7 @@
         "Icon": "rss",
         "Id": "com.voetre.easyrssfeed",
         "Name": "EasyRSSFeed",
-        "Version": "1.0.0",
+        "Version": "1.2.0",
         "License": "GPL-2.0",
         "Website": ""
     },
